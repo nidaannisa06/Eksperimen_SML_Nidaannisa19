@@ -1,0 +1,12 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore processed data output folders
+/preprocessing/housing_preprocessing_preprocessing/
+/preprocessing/housing_preprocessing/
+
+# Ignore any __pycache__ folders
+__pycache__/
+
+# Ignore any Jupyter checkpoint files
+.ipynb_checkpoints/
